@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.beecrowd.com.br">
-    <img src="https://www.beecrowd.com.br/judge/img/beecrowd.png" alt="Beecrowd Logo" width="250">
-  </a>
-</p>
-
 <h1 align="center">
   Soluções dos Desafios Beecrowd
 </h1>
