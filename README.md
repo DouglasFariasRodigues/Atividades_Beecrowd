@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.beecrowd.com.br">
-    <img src="https://static.beecrowd.com.br/judge/img/assets/bee-logo-3.png" alt="Beecrowd Logo" width="250">
+    <img src="https://www.beecrowd.com.br/judge/img/beecrowd.png" alt="Beecrowd Logo" width="250">
   </a>
 </p>
 
