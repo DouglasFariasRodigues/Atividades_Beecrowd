@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://www.beecrowd.com.br">
     <img src="https://www.beecrowd.com.br/judge/img/beecrowd.png" alt="Beecrowd Logo" width="250">
   </a>
 </p>
 
+=======
+>>>>>>> 39eb5a19eb2bf01a3aac4e896558a3f4aad8a6f6
 <h1 align="center">
   Soluções dos Desafios Beecrowd
 </h1>
