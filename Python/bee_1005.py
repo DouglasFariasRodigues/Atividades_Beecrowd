@@ -1,6 +1,7 @@
-valor_1 = int(input())
-valor_2 = int(input())
+nota_A = float(input()) * 3.5
+nota_B = float(input()) * 7.5
 
-produto = valor_1 * valor_2
+media = (nota_A + nota_B) / 11
 
-print(f"PROD = {produto}")
+print(f"MEDIA = {media:0.5f}")
+

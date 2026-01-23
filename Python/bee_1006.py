@@ -1,7 +1,7 @@
-nota_A = float(input()) * 3.5
-nota_B = float(input()) * 7.5
+nota_A  = float(input()) * 2
+nota_B = float(input()) * 3
+nota_C = float(input()) * 5
 
-media = (nota_A + nota_B) / 11
+media = (nota_A + nota_B + nota_C) / 10
 
-print(f"MEDIA = {media:0.5f}")
-
+print(f"MEDIA = {media:0.1f}")

@@ -1,6 +1,6 @@
-a = int(input())
-b = int(input())
+valor_1 = int(input())
+valor_2 = int(input())
 
-soma = a + b
+produto = valor_1 * valor_2
 
-print(f"SOMA = {soma}")
+print(f"PROD = {produto}")
